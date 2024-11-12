@@ -5,5 +5,5 @@ edition = "2018"
 
 [dependencies]
 indexmap = { version = "1.7.0", features = ["rayon"] }
-mimalloc = { version = "0.1.26", features = ["override"], default-features = false }
+mimalloc = { version = "0.1.39", features = ["override"], default-features = false }
 rand = { version = "0.8.4", features = ["std_rng"] }
