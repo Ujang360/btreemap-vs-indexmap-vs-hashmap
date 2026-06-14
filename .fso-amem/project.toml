@@ -1,0 +1,6 @@
+[project]
+name = "ujang-btreemap-vs-indexmap-vs-hashmap"
+slug = "ujang-btreemap-vs-indexmap-vs-hashmap"
+
+[amem]
+server = "https://amem.flusci.org"
